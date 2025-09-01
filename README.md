@@ -26,10 +26,3 @@
 - Email: [mateopavoni6@gmail.com](mailto:mateopavoni6@gmail.com)
 - LinkedIn: [linkedin.com/in/mateopavoni10](https://www.linkedin.com/in/mateopavoni10/)
 
-😄 Pronombres: **Él / He**
-
-⚡ **Dato curioso:** Practiqué triatlón 🏊🚴🏃, actualmente juego al fútbol ⚽, ¡y soy un apasionado del automovilismo, el ciclismo, la natación, el básquet y las motos! 🏎️🏍️
-
----
-
-> 💡 *"Siempre estoy en movimiento, tanto en el código como en la vida."*
