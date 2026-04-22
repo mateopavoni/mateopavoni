@@ -1,28 +1,43 @@
-## Hi there 👋 I'm Mateo Pavoni!
+# Hi there, I'm Mateo Pavoni! 👋
 
-<!--
-✨ Welcome to my GitHub profile! ✨
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/mateopavonidev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mateopavoni6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-### 🚀 Sobre mí
+---
 
-👨‍💻 Actualmente estoy cursando una **Tecnicatura Superior en Desarrollo de Software** gracias a Encode, mientras avanzo en proyectos personales que me motivan a seguir aprendiendo y creciendo como desarrollador.
+### 💻 About Me
+I am a **Full Stack Developer** with a practical mindset and a passion for building scalable solutions that solve real-world problems. I specialize in modern web ecosystems and business automation, focusing on creating efficient and maintainable products.
 
-🌱 Estoy aprendiendo a fondo:
-- **MongoDB** 🛢️
-- **TypeScript** & **Angular** 💻
-- Creación y consumo de **APIs** 🔗
+- **Currently:** Founder & Full Stack Developer at **CodeTlon**, my own software development agency.
+- **Education:** Studying **Information Systems Engineering** at UTN-FRC and **Software Development** at Inst. Brochero (100% Merit-based Scholarship).
+- **Previously:** Trainee .NET Developer at Encode S.A.
 
-👯 Estoy abierto a colaborar en **cualquier tipo de proyecto** donde pueda aportar, aprender en equipo y crecer junto a otros/as desarrolladores/as.
+---
 
-🎯 Me gustaría **mejorar en el desarrollo Frontend**, especialmente en técnicas modernas, frameworks y buenas prácticas.
+### 🛠️ Technical Stack
 
-💬 Pregúntame sobre:
-- **HTML**, **CSS**, **JavaScript**
-- **SQL** y consultas avanzadas
-- **C#** y fundamentos de backend
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js, TypeScript, Tailwind CSS, Sass, Bootstrap 5 |
+| **Backend & DB** | Node.js, .NET Core, PHP, Supabase (PostgreSQL), SQL Server, MySQL, MongoDB |
+| **Infrastructure** | Docker, Coolify, VPS Management, Cloudflare, Linux |
+| **Automation & AI** | n8n (Self-hosted), Meta API, Claude Code (MCP/Hooks), Google Cloud APIs |
+| **Quality & QA** | Playwright (E2E Testing), Lighthouse (Performance/SEO) |
 
-📫 Puedes contactarme:
-- Email: [mateopavoni6@gmail.com](mailto:mateopavoni6@gmail.com)
-- LinkedIn: [linkedin.com/in/mateopavoni10](https://www.linkedin.com/in/mateopavoni10/)
+---
 
+### 🌟 Featured Project: Marcovich Barbería
+**A comprehensive management platform and automated booking system currently in production.**
+
+- **The Stack:** Next.js, Supabase, n8n, WhatsApp API.
+- **The Solution:** Automated booking via WhatsApp, real-time Google Calendar sync, and custom notifications.
+- **Deployment:** Self-hosted on VPS with Docker and Coolify, secured by Cloudflare.
+
+---
+
+### 📫 Let's Connect!
+- **Email:** mateopavoni6@gmail.com
+- **LinkedIn:** [mateopavonidev](https://www.linkedin.com/in/mateopavonidev/)
+- **GitHub:** [mateopavoni](https://github.com/mateopavoni)
