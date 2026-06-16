@@ -1,7 +1,5 @@
 # Hi there, I'm Mateo Pavoni! 👋
 
----
-
 ### 💻 About Me
 I am a **Full Stack Developer** with a practical mindset and a passion for building scalable solutions that solve real-world problems. I specialize in modern web ecosystems and business automation, focusing on creating efficient and maintainable products.
 
