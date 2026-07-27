@@ -1,6 +1,6 @@
-# Hi there, I'm Mateo Pavoni! 👋
+# Hi there, I'm Mateo Pavoni!
 
-### 💻 About Me
+### About Me
 I am a **Full Stack Developer** with a practical mindset and a passion for building scalable solutions that solve real-world problems. I specialize in modern web ecosystems and business automation, focusing on creating efficient and maintainable products.
 
 - **Currently:** Founder & Full Stack Developer at **CodeTlon**, my own software development agency.
@@ -9,7 +9,7 @@ I am a **Full Stack Developer** with a practical mindset and a passion for build
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -21,16 +21,30 @@ I am a **Full Stack Developer** with a practical mindset and a passion for build
 
 ---
 
-### 🌟 Featured Project: Marcovich Barbería
-**A comprehensive management platform and automated booking system currently in production.**
+### Featured Project: ChronoFlow
+**Event-driven workflow engine on directed acyclic graphs (DAGs).**
 
-- **The Stack:** Next.js, Supabase, n8n, WhatsApp API.
-- **The Solution:** Automated booking via WhatsApp, real-time Google Calendar sync, and custom notifications.
-- **Deployment:** Self-hosted on VPS with Docker and Coolify, secured by Cloudflare.
+- **The Stack:** Python, FastAPI, PostgreSQL, asyncio, React, TypeScript, React Flow.
+- **The Solution:** Async parallel DAG execution, JSONPath expressions for dynamic payloads, and Time-Travel Debugging via event-sourcing (replay the historical state of any run, node by node).
+- **Extras:** Visual graph editor built with React Flow.
+
+### Featured Project: TuTienda
+**Multi-store ecommerce builder, SaaS-style (à la Shopify / Tienda Nube).**
+
+- **The Stack:** Go, MongoDB, Redis, SvelteKit, TypeScript, Docker, microservices.
+- **The Solution:** Never oversell stock under concurrent load, isolated per store — atomic MongoDB operations and time-boxed cart holds with Redis, in a multi-tenant Go microservices architecture.
+- **Extras:** SvelteKit frontend covering marketing, storefront per store, and merchant dashboard.
 
 ---
 
-### 📫 Let's Connect!
+### CodeTlon — Client Work in Production
+- [codetlon.com.ar](https://codetlon.com.ar)
+- [Marcovich Barbería](https://marcovichbarber.com.ar/) — booking management platform with automated WhatsApp turnero and Google Calendar sync.
+- [GC2 Entrenamiento de Resistencia](https://www.gc2entrenamientoderesistencia.com.ar/)
+
+---
+
+### Let's Connect!
 - **Email:** mateopavoni6@gmail.com
 - **LinkedIn:** [mateopavonidev](https://www.linkedin.com/in/mateopavonidev/)
 - **GitHub:** [mateopavoni](https://github.com/mateopavoni)
