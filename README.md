@@ -34,7 +34,7 @@ I am a **Full Stack Developer** with a practical mindset and a passion for build
 **REST API for membership management at a health/sports club.**
 - **The Stack:** Java 21, Spring Boot 3.3, MySQL 8, Flyway, MapStruct, Resilience4j, Bucket4j, Docker, GitHub Actions.
 - **The Solution:** On-demand membership state engine (no caching). Real concurrency control: an initial @Transactional + SELECT FOR UPDATE attempt failed under load (commit happens after method return) — fixed with a per-client JVM lock + TransactionTemplate, verified with a 10-parallel-request test against a quota of 1.
-- **Extras:** 27 tests (H2 for unit/controller, Testcontainers for integration), retry + circuit breaker on outgoing webhooks, rate limiting, and plan-catalog caching. Deployed to production via Dokku with CI/CD.
+- **Extras:** 27 tests (H2 for unit/controller, Testcontainers for integration), retry + circuit breaker on outgoing webhooks, rate limiting, and plan-catalog caching. CI/CD with GitHub Actions.
 
 ### Featured Project: Chaos Playground
 **Chaos Engineering playground with real OTP processes, not simulations.**
