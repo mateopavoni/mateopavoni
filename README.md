@@ -3,10 +3,8 @@
 ### About Me
 I am a **Full Stack Developer** with a practical mindset and a passion for building scalable solutions that solve real-world problems. I specialize in modern web ecosystems and business automation, focusing on creating efficient and maintainable products.
 
-- **Currently:** Founder & Full Stack Developer at **CodeTlon**, my own software development agency.
-- **Education:** Studying **Information Systems Engineering** at UTN-FRC and **Software Development** at Inst. Brochero (100% Merit-based Scholarship). Full Stack Developer Career at **Coderhouse**.
-- **Previously:** Trainee .NET Developer at Encode S.A.
-
+- **Currently:** Junior Full Stack Developer at **AR IT Services**.
+- **Education:** Studying **Information Systems Engineering** at UTN-FRC and **Software Development** at Inst. Brochero (100% Merit-based Scholarship). Full Stack Developer Career at **Coderhouse**
 ---
 
 ### Technical Stack
@@ -43,17 +41,6 @@ I am a **Full Stack Developer** with a practical mindset and a passion for build
 - **The Stack:** Elixir, Phoenix LiveView, PostgreSQL, Tailwind, Docker.
 - **The Solution:** Every infrastructure node on the canvas (load balancer, API, DB, cache, queue) is a real GenServer under a DynamicSupervisor — "killing" a node runs an actual `Process.exit(pid, :kill)`. Deliberate `:temporary` restart strategy to show real "let it crash" behavior, no auto-heal masking the failure.
 - **Extras:** Live metrics dashboard (RPS, p99, error rate), automatic Chaos Monkey, and a centralized traffic simulator generating concurrent load. 101 tests running in CI/CD on every push to main.
-
----
-
-### CodeTlon — Client Work in Production
-- [codetlon.com.ar](https://codetlon.com.ar)
-- [Marcovich Barbería](https://marcovichbarber.com.ar/) — booking management platform with automated WhatsApp turnero and Google Calendar sync.
-- MasiPhone — e-commerce with MercadoPago payment gateway, Turborepo monorepo (Next.js + Nest.js), JWT auth.
-- [GC2 Entrenamiento de Resistencia](https://www.gc2entrenamientoderesistencia.com.ar/)
-- Grúas InGlobal — legacy PHP rewrite to Next.js 15 with CMS dashboard (jobs, clients, blog) and a fleet booking module installable as a PWA (TV kiosk view).
-- Vimet — website for a nutrition and training practice, with online appointment booking.
-- Agenda InGlobal — mobile app (React Native/Expo) connected to the same Supabase backend.
 
 ---
 
