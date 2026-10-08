@@ -42,6 +42,12 @@ I am a **Full Stack Developer** with a practical mindset and a passion for build
 - **The Solution:** Every infrastructure node on the canvas (load balancer, API, DB, cache, queue) is a real GenServer under a DynamicSupervisor — "killing" a node runs an actual `Process.exit(pid, :kill)`. Deliberate `:temporary` restart strategy to show real "let it crash" behavior, no auto-heal masking the failure.
 - **Extras:** Live metrics dashboard (RPS, p99, error rate), automatic Chaos Monkey, and a centralized traffic simulator generating concurrent load. 101 tests running in CI/CD on every push to main.
 
+### Featured Project: CodeSync
+**Collaborative IDE for learning to code, with sandboxed execution of untrusted code.**
+- **The Stack:** .NET 8 (Clean Architecture + CQRS/MediatR), Angular 20, Firebase (Firestore, Realtime DB, Auth), Monaco Editor, Docker, Playwright.
+- **The Solution:** A room holds at most 4 people, and the first optimistic `Count < 4` check let two simultaneous joins both take the last seat. An integration test with 2 parallel joins against the real Firestore emulator caught it; fixed with a Firestore transaction (`RunTransactionAsync`).
+- **Extras:** User code runs in ephemeral Docker containers (7 languages, no network, 256MB, 5s SIGKILL timeout, read-only filesystem, non-root), HTML/CSS graded with headless Chromium. Real-time Monaco sync with remote cursors and chat, AI Coach (OpenRouter) with rate limiting and a fallback to pre-generated hints, 34 seeded challenges, 58 unit tests plus Playwright E2E.
+
 ---
 
 ### Let's Connect!
